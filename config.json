@@ -1,0 +1,35 @@
+{
+  "valid_login": {
+    "username": "hripsime+retail.a@intelinair.com",
+    "password": "13TopPic$"
+  },
+  "wrong_username":{
+    "username": "irinabaghdasaryan27@gmail.com",
+    "password": "13TopPic$"
+  },
+  "wrong_password": {
+    "username": "hripsime+retail.a@intelinair.com",
+    "password": "12TopPic"
+  },
+  "empty_username": {
+    "username": "",
+    "password": "13TopPic$"
+  },
+  "empty_password": {
+    "username": "hripsime+retail.a@intelinair.com",
+    "password": ""
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
